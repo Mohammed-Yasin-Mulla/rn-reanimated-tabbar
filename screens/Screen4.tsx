@@ -1,12 +1,12 @@
-import { View, Text } from 'react-native'
-import React from 'react'
+import { View, Text } from "react-native";
+import React from "react";
 
 const Screen4 = () => {
   return (
-    <View>
+    <View style={{ backgroundColor: "black", flex: 1 }}>
       <Text>Screen4</Text>
     </View>
-  )
-}
+  );
+};
 
-export default Screen4
+export default Screen4;

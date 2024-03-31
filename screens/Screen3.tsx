@@ -3,7 +3,7 @@ import React from 'react'
 
 const Screen3 = () => {
   return (
-    <View>
+    <View style={{backgroundColor:'black', flex:1}}>
       <Text>Screen3</Text>
     </View>
   )
